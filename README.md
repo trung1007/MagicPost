@@ -1,1 +1,1 @@
-# MagicPost
+# magic_post
